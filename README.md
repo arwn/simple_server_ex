@@ -1,21 +1,9 @@
 # SimpleServerEx
 
-**TODO: Add description**
+A web server. A future reference for plug, gen_server, and ecto.
 
-## Installation
+## Usage
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `simple_server_ex` to your list of dependencies in `mix.exs`:
-
-```elixir
-def deps do
-  [
-    {:simple_server_ex, "~> 0.1.0"}
-  ]
-end
-```
+run `iex -S mix run` and visit localhost:4001
 
 Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/simple_server_ex](https://hexdocs.pm/simple_server_ex).
-
